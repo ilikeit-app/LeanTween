@@ -1,0 +1,25 @@
+{
+  "name": "xr.ilikeit.leantween",
+  "version": "1.0.0",
+  "displayName": "LeanTween",
+  "description": "LeanTween is an efficient tweening engine for Unity3d",
+  "unity": "2021.3",
+  "keywords": [
+    "tween",
+    "animation",
+    "lean",
+    "lerp"
+  ],
+  "author": {
+    "name": "Dented Pixel",
+    "url": "http://dentedpixel.com/"
+  },
+  "documentationUrl": "http://dentedpixel.com/LeanTweenDocumentation/classes/LeanTween.html",
+  "samples" : [
+    {
+      "displayName": "LeanTween Examples",
+      "description": "LeanTween Examples",
+      "path": "Samples~/Examples"
+    }
+  ]
+}

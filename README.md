@@ -1,10 +1,17 @@
-LeanTween
-=========
+# LeanTween
 
-LeanTween is an efficient tweening engine for the Unity 3d engine
+LeanTween is an efficient tweening engine for Unity3d.
+This is a fork of the original LeanTween by Dented Pixel modified to work as a Unity Package Manager package.
 
-**To use LeanTween** move the included Plugins folder into the root of your project (or move LeanTween.cs directly into any pre-existing Assets/Plugins folder).
+### Full Documentation:
 
-Documentation can be found here: http://dentedpixel.com/LeanTweenDocumentation/classes/LeanTween.html
+http://dentedpixel.com/LeanTweenDocumentation/classes/LeanTween.html
+This can also be accessed offline! From the Unity menu Help->LeanTween Documentation.
 
-Examples here: https://github.com/dentedpixel/LeanTween/archive/master.zip
+### Getting Started
+
+LeanTween examples have been moved to the `Samples~/Examples` folder and should appear in the UPM Samples window.
+
+### TODO
+
+- Modify `LeanTweenDocumentationEditor.cs` so it can access the correct documentation path from the Unity Help menu

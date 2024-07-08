@@ -1,6 +1,7 @@
 # LeanTween
 
 LeanTween is an efficient tweening engine for Unity3d.
+
 This is a fork of the original LeanTween by Dented Pixel modified to work as a Unity Package Manager package.
 
 ### Full Documentation:
